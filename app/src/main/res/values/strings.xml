@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MailingR</string>
+        <string-array name="operator_array">
+            <item>Мегаком</item>
+            <item>ОШКА</item>
+            <item>Билайн</item>
+            <!-- Добавьте другие операторы, если нужно -->
+        </string-array>
+
+</resources>
